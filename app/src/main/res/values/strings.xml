@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Mumbai Tourism</string>
+    <string name="discover_the">Discover the</string>
+    <string name="beauty_of_mumbai">beauty of Mumbai</string>
+    <string name="search_here">Search Here...</string>
+    <string name="famous_places">Famous Places to Visit</string>
+    <string name="famous_food">Famous Food to Eat</string>
+    <string name="hangout_places">Hangout Places</string>
+    <string name="beach">Beach</string>
+    <string name="camping">Camping</string>
+    <string name="mountain">Mountain</string>
+    <string name="forest">Forest</string>
+    <string name="food">Food</string>
+    <string name="gateway_of_india">Gateway of India</string>
+    <string name="shree_siddhivinayak_temple">Shree Siddhivinayak Temple</string>
+    <string name="sgnp">Sanjay Gandhi National Park</string>
+    <string name="CSMT">Chhatrapati Shivaji Maharaj Ter.</string>
+    <string name="GVP">Global Vipassana Pagoda</string>
+    <string name="CSMTVS">CSMT Vastu Sangrahalaya</string>
+    <string name="kanheri_caves">Kanheri Caves</string>
+    <string name="About_Gateway_Of_India">The Gateway of India is an arch-monument built in the early 20th century in the city of Mumbai (Bombay), India. It was erected to commemorate the landing of King-Emperor George V, the first British monarch to visit India, in December 1911 at Strand Road near Wellington Fountain.</string>
+    <string name="About_SVTemple">The Shri Siddhivinayak Ganapati Mandir is a Hindu temple dedicated to Ganesh. It is located in Prabhadevi, Mumbai, Maharashtra, India. It was originally built by Laxman Vithu and Deubai Patil on 19 November 1801. It is one of the richest temples in India.</string>
+    <string name="Address_SVTemple">Address: 2R8J+P4J, SK Bole Marg, Prabhadevi, Mumbai, Maharashtra 400028</string>
+    <string name="About_CSMT">Chhatrapati Shivaji Maharaj Terminus (previously Chhatrapati Shivaji Terminus, Mumbai station code: CSMT (mainline)/ST (suburban), is a railway terminus and UNESCO World Heritage Site in Mumbai, Maharashtra, India.</string>
+    <string name="Address_GOI">Address: Apollo Bandar, Colaba, Mumbai, Maharashtra 400001</string>
+    <string name="Address_CMST">Address: Fort, Mumbai, Maharashtra, 400001</string>
+    <string name="About_SGNP">Sanjay Gandhi National Park, also known as SGNP, is an 87 km2 (34 sq mi) protected area in Mumbai, Maharashtra. It was established in 1969 with its headquarters situated at Borivali.
+The 2400-year-old Kanheri caves, sculpted by monks out of the rocky basaltic cliffs, lie within the park. The rich flora and fauna of the Sanjay Gandhi National Park attract more than 2 million visitors every year.</string>
+    <string name="Address_SGNP">Address: Borival East, Mumbai, Maharashtra</string>
+    <string name="About_GVP">The Global Vipassana Pagoda is a Meditation dome hall with a capacity to seat around 8,000 Vipassana meditators (the largest such meditation hall in the world) near Gorai, north-west of Mumbai, Maharashtra, India. The pagoda was inaugurated by Pratibha Patil, then President of India, on 8 February 2009.[1] It is built on donated land on a peninsula between Gorai creek and the Arabian Sea.</string>
+    <string name="Address_GVP">Address: Global Vipassana Pagoda Road, Gorai Village, West, Borivali, Mumbai, Maharashtra 400092</string>
+    <string name="openingHours">Hours :</string>
+    <string name="openStatus">Open Now</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="About_CSMTVS">Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, (CSMVS) originally named Prince of Wales Museum of Western India, is a museum in Mumbai (Bombay) which documents the history of India from prehistoric to modern times. It was founded during British rule of India in the early years of the 20th century by prominent citizens of the city then called Bombay, with the help of the government, to commemorate the visit of the Prince of Wales (later George V, king of the United Kingdom and emperor of India).</string>
+    <string name="Address_CSMTVS">Address: 159-161, Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400001</string>
+    <string name="About_Kanheri_Caves">The Kanheri Caves (Kānherī-guhā [kaːnʱeɾiː ɡuɦaː]) are a group of caves and rock-cut monuments cut into a massive basalt outcrop in the forests of the Sanjay Gandhi National Park, on the former island of Salsette in the western outskirts of Mumbai, India. They contain Buddhist sculptures and relief carvings, paintings and inscriptions, dating from the 1st century CE[1] to the 10th century CE. Kanheri comes from the Sanskrit Krishnagiri, which means black mountain.</string>
+    <string name="Address_KC">Address: Sanjay Gandhi National Park, Borivali East, Mumbai, Maharashtra - 600066</string>
+</resources>

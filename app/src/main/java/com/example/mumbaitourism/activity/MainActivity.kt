@@ -3,7 +3,6 @@ package com.example.mumbaitourism.activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.mumbaitourism.activity.FamousPlacesToVisit.FamousFoodActivity
 import com.example.mumbaitourism.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

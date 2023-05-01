@@ -37,7 +37,7 @@
             android:name=".activity.FamousHangoutPlacesActivity"
             android:exported="false" />
         <activity
-            android:name=".activity.FamousPlacesToVisit.FamousFoodActivity"
+            android:name=".activity.FamousFoodActivity"
             android:exported="false" />
         <activity
             android:name=".activity.FamousPlacesActivity"

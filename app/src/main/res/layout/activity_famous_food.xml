@@ -18,4 +18,362 @@
         android:textColor="@color/white"
         android:textSize="@dimen/_24sdp" />
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewVadaPav"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_vada_pav" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Vada Pav"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewAkuri"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_akuri" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Akuri on Toast"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewSandwich"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_bombay_sandwich" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="The Bombay Sandwich"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewBunMuska"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_bun_maska" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Bun Maska"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewBhelPuri"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_bhel_puri" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Bhel Puri"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewChickenRoll"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_chicken_roll" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Chicken Mayo Roll"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewRagdaPattice"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_ragda_pattice" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Ragda Pattice"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewFaluda"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_faluda" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Faluda"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewPuranPoli"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_puran_poli" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Puran Poli"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewFrankie"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_5sdp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:contentDescription="@string/famous_food"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/famous_food_frankie" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:padding="@dimen/_5sdp"
+                        android:text="Frankie"
+                        android:textAlignment="center"
+                        android:textColor="@color/bgColor"
+                        android:textSize="@dimen/_18sdp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
 </LinearLayout>
